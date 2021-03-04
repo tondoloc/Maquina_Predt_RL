@@ -1,4 +1,4 @@
-Projeto DS com a primeira máquina preditiva com regressão linear. Um exemplo simples para quem começar a aprender e após podem ser carregados novos bancos de dados para novos exercícios.
+Projeto DS de uma máquina preditiva com regressão linear. Um exemplo simples para quem começar a aprender e após podem ser carregados novos bancos de dados para novos exercícios.
 
 Aulas e materiaes disponibilizados pelo Edu no canal Ciência dos Dados no Youtube. 
 
